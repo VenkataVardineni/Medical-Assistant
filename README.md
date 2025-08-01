@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Medical Assistant Chatbot
 
 A Retrieval-Augmented Generation (RAG) based medical assistant chatbot that provides educational medical information using a comprehensive dataset of 16,407 medical Q&A pairs.
@@ -213,3 +214,6 @@ For medical questions, please consult qualified healthcare professionals.
 ---
 
 **🏥 Remember: This is an educational tool, not a medical device. Always consult healthcare professionals for medical advice.** 
+=======
+# Medical-Assistant
+>>>>>>> fa549fa8d4c6793cf3f4075d1288d2e24a9cfe61
